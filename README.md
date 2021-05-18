@@ -1,1 +1,28 @@
-# MIC_college
+# Resume
+
+## name:udaya
+
+**this is bold**
+
+*this is italic*
+
+_this is also italic_
+
+__this is also italic__
+
+<h1>hi</h1>
+
+# lists
+
+- odreder list
+    1. item1
+    2. item2
+    5. item3
+
+  -unoreder list:
+   * item1
+    * item2
+     * item3
+     * item4
+  # links:
+  [gogle](www.google.com)
