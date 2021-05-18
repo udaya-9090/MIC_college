@@ -56,4 +56,4 @@ technology | percentage
 
 ## email
 
-(udayachowdary9999@gmail.com)
+udayachowdary9999@gmail.com
